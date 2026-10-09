@@ -13,7 +13,7 @@ This project will use publicly available data to determine if socioeconomic vari
 ├── reports/              # Generated reports and visualizations
 ├── requirements.txt      # Dependencies
 └── README.md             # Project documentation
-## Data Source: 
+## Data Source: data/EdGap_data.xlsx
 ## Description: 
 ## License: (if applicable)
 ## Analysis:
